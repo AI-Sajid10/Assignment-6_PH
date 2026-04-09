@@ -1,7 +1,7 @@
 import React from "react";
 import BannerBottom from "./BannerBottom";
 import { Play } from "lucide-react";
-import bannerImg from "../../assets/banner.png";
+import bannerImg from "../../assets/hro.png";
 
 const Banner = () => {
   return (
