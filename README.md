@@ -1,16 +1,26 @@
-# React + Vite
+🚀 DigiTools | Modern Digital Marketplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DigiTools is a high-performance and visually refined digital marketplace landing page. It is designed to deliver a fast, responsive, and engaging user experience for modern digital product platforms.
 
-Currently, two official plugins are available:
+🌐 Live Demo
+👉 View Live Project: https://digitools-platform-bysajid.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Key Features
+🛒 1. Dynamic Shopping Experience
+Seamless real-time shopping cart system
+Users can browse and add digital products instantly
+Built with modern React hooks for smooth performance and zero lag
+📱 2. Fully Responsive Design
+Pixel-perfect UI across all devices
+Built with Tailwind CSS and DaisyUI
+Optimized for mobile, tablet, and desktop screens
+⚡ 3. Optimized Data Loading
+Uses React Suspense for non-blocking rendering
+Asynchronous data fetching from JSON sources
+Faster initial load and improved performance
+🛠️ Tech Stack
+1.Frontend Framework: React 19
+2.Build Tool: Vite
+3.Styling: Tailwind CSS 4, DaisyUI 5
+4.Icons: Lucide React, Font Awesome
+5.Notifications: React Toastify
